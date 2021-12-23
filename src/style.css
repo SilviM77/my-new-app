@@ -26,6 +26,12 @@ body {
     line-height: 1;
     list-style: none;
   }
+
+  footer {
+    font-size: 15px;
+    text-align: block;
+    margin: 0 auto;
+  }
   
   .weather-app {
     border: 1px solid #dadde1;
@@ -55,4 +61,8 @@ body {
   .search-form {
     margin-bottom: 20px;
   }
-  
+  .card-group {
+    max-width: 600px;
+    margin-right: 10px;
+  }
+ 
